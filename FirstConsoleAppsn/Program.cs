@@ -11,6 +11,7 @@ namespace FirstConsoleAppsn
      * Variable is used to store data.
      * Identifier is the name of variable.
      *Varibles name should start with captial ,small or with _.
+     *Hello All new line added.
      */
     internal class Program
     {
